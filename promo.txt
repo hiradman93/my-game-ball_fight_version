@@ -1,1 +1,4 @@
-
+BALL2024 1000 money
+WELCOME 500 money
+GIFT1 1 sword
+GIFT2 2 potion
